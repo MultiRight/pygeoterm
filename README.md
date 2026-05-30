@@ -94,6 +94,11 @@ This project is licensed under the **GNU General Public License v3.0**.
 
 **MultiRight**
 GitHub: [https://github.com/MultiRight](https://github.com/MultiRight)
+
+---
+
+## Repository
+
 Repository: [https://github.com/MultiRight/PyGeoterm](https://github.com/MultiRight/PyGeoterm)
 
 ---
