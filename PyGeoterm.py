@@ -53,7 +53,8 @@ while True :
         print(f"{color_orange}|   [2] - Rectangle      |   [5] - Parallelogram           |{color_reset}")
         print(f"{color_orange}|   [3] - Triangle       |   [6] - Trapezoid               |{color_reset}")
         print(f"{color_orange}+----------------------------------------------------------+{color_reset}")
-
+        print()
+        
         user_choose = input(f"{color_light_blue}Enter the number of the shape to calculate its area : {color_reset}")
 
         # ---------------------------------------------------------------------------
