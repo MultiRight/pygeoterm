@@ -105,7 +105,7 @@ Repository: [https://github.com/MultiRight/PyGeoterm](https://github.com/MultiRi
 
 ## Copyright
 
-Copyright (C) 2026 [MultiRight](https://github.com/MultiRight)
+Copyright (C) 2026 MultiRight https://github.com/MultiRight
 
 ---
 
