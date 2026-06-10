@@ -50,6 +50,7 @@ while running :
         print(f"{color_orange}err101 : Invalid input. (Letters/symbols entered instead of numbers).{color_reset}")
         print(f"{color_orange}err102 : Invalid shape. (Choice is not in the geometric menu).{color_reset}")
         print(f"{color_orange}err103 : Invalid action. (Choice is not 'r' or 'q'){color_reset}")
+        print()
 
 # geometric menu
 
