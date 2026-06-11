@@ -6,6 +6,12 @@
 
 
 import math
+import sys
+
+# Enable ANSI escape codes on Windows (not needed on Linux/Mac)
+if sys.platform == "win32":
+    import os
+    os.system("")
 
 
 # color variables
