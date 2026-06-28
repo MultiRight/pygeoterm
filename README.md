@@ -92,18 +92,6 @@ GitHub: [https://github.com/MultiRight](https://github.com/MultiRight)
 
 ---
 
-## Repository
-
-Repository: [https://github.com/MultiRight/PyGeoterm](https://github.com/MultiRight/PyGeoterm)
-
----
-
-## Copyright
-
-Copyright (C) 2026 MultiRight https://github.com/MultiRight
-
----
-
 ## 🐱 Special Thanks
 
 A special thanks to mimi — the legendary, the great, the gentle cat.
